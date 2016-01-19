@@ -1,0 +1,1 @@
+bahasa   pemrograman   ini   adalah tampilan   output dari   programnya.  Dengan   kata   lain,   bahasa   Java dilengkapi   dengan fasilitas  GUI   (Graphik  User   Interface).
